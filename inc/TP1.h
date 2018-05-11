@@ -33,8 +33,16 @@
 
 /* Date: 2015-09-23 */
 
-#ifndef _BLINKY_H_
-#define _BLINKY_H_
+#ifndef _PROJECTS_TP1_INC_TP1_H_
+#define _PROJECTS_TP1_INC_TP1_H_
+
+//#define TP1_1
+//#define TP1_2
+//#define TP1_3
+//#define TP1_4
+//#define TP1_4_d
+//#define TP1_5
+#define TP1_6
 
 /*==================[inclusions]=============================================*/
 
@@ -59,4 +67,4 @@ extern "C" {
 #endif
 
 /*==================[end of file]============================================*/
-#endif /* #ifndef _BLINKY_H_ */
+#endif /* #ifndef _PROJECTS_TP1_INC_TP1_H_ */
